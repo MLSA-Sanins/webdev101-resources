@@ -4,9 +4,9 @@ Webdev 101 is a Frontend Web Development Bootcamp course. You will be taught HTM
 
 This repository contains all the source code that is used in our Webdev101 Tutorials. Webdev101 Tutorials YouTube [playlist link](https://youtube.com/playlist?list=PL_LImCf-ChHUT-ddowQC0XftHznEYF396)
 
-The Tutorial resources contains 2 folder:
-- *Project folder* - Contails all project source code that was written by the instructor in the session.
-- *Assignment folder* - Contains the problem statement for the Assignment for the day. Submit your assignments in Google Classroom. [Google Classroom invite link](https://classroom.google.com/c/NDA1OTI1NDUzNzMz?cjc=cxibbjv)
+**The Tutorial resources contains 2 folder**:
+- ***Project folder*** - Contails all project source code that was written by the instructor in the session.
+- ***Assignment folder*** - Contains the problem statement for the Assignment for the day. Submit your assignments in Google Classroom. [Google Classroom invite link](https://classroom.google.com/c/NDA1OTI1NDUzNzMz?cjc=cxibbjv)
 
 ## To Download the tutorial resources follow to two steps given as follows
 
