@@ -12,10 +12,10 @@ Example of a portfolio website:- https://ashuvssut.github.io/my-portfolio/
 - Put your creativity and ideas to design your Portfolio website.
 - to create beautiful components, make use of some CSS generator tools described in 
 this video https://youtu.be/bLupWseBTrA
-- Learn CSS basic concepts from Kevin Powell youtube channel, MDN and CSS Tricks website
+- Learn CSS basic concepts from Kevin Powell YouTube channel, MDN and CSS Tricks website
 - Put CSS animations 
 - Host your website on GitHub Pages
-- Submit your hosted website link and Github repository link in Google Classroom
+- Submit your hosted website link and GitHub repository link in Google Classroom
 - Deadline of submission 20th Feb 2022.
 ----------------------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ this video https://youtu.be/bLupWseBTrA
 with your peers and mentors on discord.
 
 4. You are not allowed to copy your peer's design. Create your own design. Take reference and ideas
-from portfolio websites available on the internet, GitHub or Codepen, etc.
+from portfolio websites available on the internet, GitHub or CodePen, etc.
 5. You are not allowed to copy paste code from others or from anywhere. You may copy code
 if you are modifying that copied code to design your own components in the website. You are 
 not allowed to directly put copied components that are readily available on the internet.
