@@ -35,7 +35,7 @@ You may be later asked about how you designed each and every component.
 
 -----------------------------------------------------------------------------------------
 
-### COMMUNTICATION
+### COMMUNICATION
 
 In our discord server, you can chat in webdev101 **doubts-and-discussions** channel with your 
 peers and mentors 
