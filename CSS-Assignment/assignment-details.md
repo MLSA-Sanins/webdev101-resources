@@ -4,7 +4,7 @@ Dt-10 Feb 22
 
 You are supposed to create a beautiful HTML and CSS Portfolio Project
 
-# Assignment Task Details
+### Assignment Task Details
 
 Make your own portfolio website from scratch using HTML & CSS
 
@@ -19,7 +19,7 @@ this video https://youtu.be/bLupWseBTrA
 - Deadline of submission 20th Feb 2022.
 ----------------------------------------------------------------------------------------
 
-# DOs & DONTs
+### DOs & DONTs
 
 1. You can discuss with peers and mentors to improve your website design
 2. You can take help from Google and learn from all the free resources available on the internet
@@ -35,7 +35,7 @@ You may be later asked about how you designed each and every component.
 
 -----------------------------------------------------------------------------------------
 
-# COMMUNTICATION
+### COMMUNTICATION
 
 In our discord server, you can chat in webdev101 **doubts-and-discussions** channel with your 
 peers and mentors 
