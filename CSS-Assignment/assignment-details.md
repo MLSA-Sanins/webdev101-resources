@@ -4,6 +4,8 @@ Dt-10 Feb 22
 
 You are supposed to create a beautiful HTML and CSS Portfolio Project
 
+# Assignment Task Details
+
 Make your own portfolio website from scratch using HTML & CSS
 
 Example of a portfolio website:- https://ashuvssut.github.io/my-portfolio/
@@ -17,7 +19,7 @@ this video https://youtu.be/bLupWseBTrA
 - Deadline of submission 20th Feb 2022.
 ----------------------------------------------------------------------------------------
 
-DOs & DONTs
+# DOs & DONTs
 
 1. You can discuss with peers and mentors to improve your website design
 2. You can take help from Google and learn from all the free resources available on the internet
@@ -33,15 +35,15 @@ You may be later asked about how you designed each and every component.
 
 -----------------------------------------------------------------------------------------
 
-COMMUNTICATION
+# COMMUNTICATION
 
-In our discord server, you can chat in webdev101 "doubts-and-discussions" channel with your 
+In our discord server, you can chat in webdev101 **doubts-and-discussions** channel with your 
 peers and mentors 
 
-Tag @Team-Web-Dev to ask your mentors for any doubts or discussions
+Tag `@Team-Web-Dev` to ask your mentors for any doubts or discussions
 
 You can create a VC(Voice channel) in Our Discord server to interact with your mentors and peers.
-You can share your screen VCs with anyone. checkout "VCs & SCRUMS - AUTOCHANNEL" to create your own VC
+You can share your screen VCs with anyone. checkout **VCs & SCRUMS - AUTOCHANNEL** to create your own VC
 
 Deadline is on 20th Feb 2022. So you have got 10 days to learn, create and improve your first website!
 Community members are there to help you learn. Best of Luck!!
