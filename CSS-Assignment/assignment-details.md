@@ -1,5 +1,6 @@
-Assignment 2 for *Day4 to Day8-CSS Basics*									Dt-10 Feb 22
+Assignment 2 for *Day4 to Day8-CSS Basics*									
 ----------------------------------------------------------------------------------------
+Dt-10 Feb 22
 
 You are supposed to create a beautiful HTML and CSS Portfolio Project
 
